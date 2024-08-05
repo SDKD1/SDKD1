@@ -1,8 +1,6 @@
 
 ![THEME](https://th.bing.com/th/id/R.86bfad59564877514257581faa2f2223?rik=dJhrbptboAjUvA&riu=http%3a%2f%2flamcdn.net%2fhopesandfears.com%2fpost-cover%2fdLYfYLBGDmmQ3DSWcfNk8Q-default.gif&ehk=O3bHsoOitWM%2fp8xPhmkogP0TLPkmp9CWRsKdsphhKZE%3d&risl=&pid=ImgRaw&r=0)
 
-## Redes Sociais:
-![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)  ![DISCORD](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white) ![TELEGRAM](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)  ![TWITTER](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
 ## Ferramentas:
 
 | Framework                                                                                           | Scanner                                                                                           | Sniffer                                                                                           | Proxy                                                                                             |
