@@ -3,13 +3,13 @@
 ## Redes Sociais
 
 
+
+
 ## Programming Languages:
 
-| Python                                                                                           | C                                                                                                 | C#                                                                                                | Assembly                                                                                           | Bash Script                                                                                      |
-|--------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
-| ![Python](https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000) Python  | ![C](https://img.icons8.com/?size=100&id=40670&format=png&color=000000) C                      | ![C#](https://img.icons8.com/?size=100&id=55251&format=png&color=000000) C#                    | ![Assembly](https://img.icons8.com/?size=100&id=gVK745a4Vaur&format=png&color=000000) Assembly | ![Bash Script](https://img.icons8.com/?size=100&id=9MJf0ngDwS8z&format=png&color=000000) Bash Script |
-
-
+| Python                                                                                           | Assembly                                                                                           | C                                                                                                 | C#                                                                                                | Bash Script                                                                                      |
+|--------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
+| ![Python](https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000) Python  | ![Assembly](https://img.icons8.com/?size=100&id=gVK745a4Vaur&format=png&color=000000) Assembly | ![C](https://img.icons8.com/?size=100&id=40670&format=png&color=000000) C                      | ![C#](https://img.icons8.com/?size=100&id=55251&format=png&color=000000) C#                    | ![Bash Script](https://img.icons8.com/?size=100&id=9MJf0ngDwS8z&format=png&color=000000) Bash Script |
 
 ## Tools:
 
@@ -25,7 +25,7 @@ Utilizo o Burp Suite como um proxy para interceptar e modificar requisições HT
 Uso o Nmap para fazer varreduras em redes, identificar hosts, serviços e portas abertas, o que me ajuda a mapear a estrutura de uma rede e a detectar possíveis pontos fracos.
 
 **Wireshark**  
-Emprego o Wireshark para capturar e analisar pacotes de dados em tempo real, o que facilita a detecção e resolução de problemas de rede, bem como a análise de tráfego.
+Faço o uso do Wireshark para capturar e analisar pacotes de dados em tempo real, o que facilita a detecção e resolução de problemas na rede, bem como a análise de tráfego.
 
 **Metasploit**  
-Recorro ao Metasploit para explorar vulnerabilidades em sistemas e redes, testando a segurança através de uma ampla gama de exploits e módulos de ataque.
+Recorro ao Metasploit para me auxiliar e explorar vulnerabilidades em sistemas e redes, testando a segurança através de uma ampla gama de exploits e módulos para ataques.
