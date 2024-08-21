@@ -22,4 +22,4 @@
 | ![Kali Linux](https://img.icons8.com/?size=100&id=qBWtR72kluCU&format=png&color=000000)   | ![Arch Linux](https://img.icons8.com/?size=100&id=lkk6STbDNYML&format=png&color=228BE6)   | ![Ubuntu](https://img.icons8.com/?size=100&id=63208&format=png&color=000000)               | ![Mint](https://img.icons8.com/?size=100&id=101664&format=png&color=000000)                 | ![Windows](https://img.icons8.com/?size=100&id=TuXN3JNUBGOT&format=png&color=000000)   | ![Debian](https://img.icons8.com/?size=100&id=17838&format=png&color=000000)               |
 
 
-![snake](https://raw.githubusercontent.com/sammorozov/sammorozov/35dbd34c9cfb9f3b23aadaccbe672e65e9792956/assets/github-snake.svg)
+![snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
